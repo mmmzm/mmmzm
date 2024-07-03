@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200)
+<!-- README.md -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&text=Hello%20World!" />
+</p>
 
-<h1 align="center" style="font-size: 40px; color: #000000; text-shadow: 
-0 0 5px #FF1493, 
+<h1 align="center" style="font-size: 60px; color: #ffffff; text-shadow: 
 0 0 10px #FF1493, 
-0 0 15px #FF1493, 
 0 0 20px #FF1493, 
-0 0 25px #FF1493, 
 0 0 30px #FF1493, 
-0 0 35px #FF1493;">
+0 0 40px #FF1493, 
+0 0 50px #FF1493, 
+0 0 60px #FF1493, 
+0 0 70px #FF1493;">
   Hello World!
 </h1>
 
