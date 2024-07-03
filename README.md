@@ -1,6 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:0000FF&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200)
 
-<h1 align="center" style="font-size: 40px; color: #ffffff; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 55px #ff00ff, 0 0 75px #ff00ff;">
+<h1 align="center" style="font-size: 40px; color: #000000; text-shadow: 
+0 0 5px #FF1493, 
+0 0 10px #FF1493, 
+0 0 15px #FF1493, 
+0 0 20px #FF1493, 
+0 0 25px #FF1493, 
+0 0 30px #FF1493, 
+0 0 35px #FF1493;">
   Hello World!
 </h1>
 
