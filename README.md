@@ -1,17 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hello%20World!&fontSize=80&fontColor=ffffff&fontAlignY=40" />
 </p>
-
-<h1 align="center" style="font-size: 60px; color: #000000; text-shadow:
-0 0 5px #FF1493,
-0 0 10px #FF1493,
-0 0 15px #FF1493,
-0 0 20px #FF1493,
-0 0 25px #FF1493,
-0 0 30px #FF1493,
-0 0 35px #FF1493;">
-  Hello World!
-</h1>
 
 # Hi there 👋
 
