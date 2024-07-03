@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=c0f4f9&height=150&text=Hello%20World&desc=Welcome%20to%20my%20GitHub&descAlignY=80&descSize=20" />
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -7,23 +5,10 @@
 </br>
 <h3 align="center"> 💌 SNS 💌 </h3>
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:mmmzm3@gmail.com" target="_blank">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
-  </a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:mmmzm3@gmail.com" target="_blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
-
-
-
-
-
-
-
 
 
 </br>
