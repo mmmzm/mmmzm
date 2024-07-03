@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:0000FF&text=Hello%20World!&height=200&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:0000FF&height=200)
 
+<h1 align="center" style="font-size: 40px; color: #ffffff; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 55px #ff00ff, 0 0 75px #ff00ff;">
+  Hello World!
+</h1>
 
 ## Hi there 👋
 
