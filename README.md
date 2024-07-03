@@ -1,26 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200&text=Hello%20World!&fontSize=80&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=000000&height=200&text=Hello%20World!&fontSize=80&fontColor=ffffff&desc=Neon%20Pink&descColor=FF1493" />
 </p>
-
-<style>
-  h1 {
-    font-size: 80px;
-    color: #ffffff;
-    text-align: center;
-    text-shadow:
-      0 0 5px #FF1493,
-      0 0 10px #FF1493,
-      0 0 15px #FF1493,
-      0 0 20px #FF1493,
-      0 0 25px #FF1493,
-      0 0 30px #FF1493,
-      0 0 35px #FF1493;
-  }
-</style>
-
-<h1 align="center">
-  Hello World!
-</h1>
 
 # Hi there 👋
 
