@@ -19,9 +19,9 @@
   <img src ="https://img.shields.io/badge/java-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
-<h3 align="center"> 🛠 TEST 🛠 </h3>
+<h3 align="center"> 🛠 portfolio 🛠 </h3>
 <p>
-  <a href="http://127.0.0.1:5500/index.html">test</a>
+  <a href="http://127.0.0.1:5500/index.html">portfolio</a>
 </p>
 
 
