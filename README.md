@@ -6,7 +6,9 @@
 </br>
 <h3 align="center"> ✨ About Me ✨ </h3>
 <p align="center">
-  안녕하세요! 프론트와 백엔드 모두 관심 있는 열정 가득한 개발 꿈나무입니다🔥
+  안녕하세요! 프론트와 백엔드 모두 관심 있는 열정 가득한 개발 꿈나무입니다
+  <br>
+  낯선 기술에도 포기하지 않고 꾸준히 성장하겠습니다🔥
 </p> 
 <p align="center">
   <a href="https://mmmzm.github.io" style="text-decoration: underline; font-weight: bold;">👉 Portfolio Click! 👈</a>
