@@ -11,7 +11,10 @@
   낯선 기술에도 포기하지 않고 꾸준히 성장하겠습니다🔥
 </p> 
 <p align="center">
-  <a href="https://mmmzm.github.io" style="text-decoration: underline; font-weight: bold;">👉 Portfolio Click! 👈</a>
+  <a href="https://mmmzm.github.io" style="text-decoration: underline; font-weight: bold;">👉 Portfolio Click ! 👈</a>
+</p>
+<p align="center">
+  <a href="https://fishy-lifeboat-04f.notion.site/c573f5c7c4cb4ee78d64306dd8366d6e?pvs=4" style="text-decoration: underline; font-weight: bold;">👉 Notion Click ! 👈</a>
 </p>
 
 
