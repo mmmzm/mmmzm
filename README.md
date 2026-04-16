@@ -1,53 +1,72 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=c0f4f9&height=150&text=Hello%20World&desc=Welcome%20to%20my%20GitHub&descAlignY=80&descSize=20" />
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </p>
 
-</br>
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
+</p>
+
+
 <h3 align="center"> ✨ About Me ✨ </h3>
-</br>
-</br>
+
 <p align="center">
-</p> 
-<p align="center">
-  <a href="https://mmmzm.github.io" style="text-decoration: underline; font-weight: bold;">👉 Portfolio Click ! 👈</a>
 </p>
+
 <p align="center">
-  <a href="https://fishy-lifeboat-04f.notion.site/c573f5c7c4cb4ee78d64306dd8366d6e?pvs=4" style="text-decoration: underline; font-weight: bold;">👉 Notion Click ! 👈</a>
+  <a href="https://mmmzm.github.io"><b>👉 Portfolio</b></a> &nbsp;&nbsp;
+  <a href="https://www.notion.so/Kindly_-3446e5e66d5c8049918ef23159ecf0b9"><b>👉 Notion</b></a>
 </p>
 
 
-
-
-
-</br>
-</br>
-</br>
 <h3 align="center"> 🛠 Skills & Tools 🛠 </h3>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+
+<!-- Language -->
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <br>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<!-- Front -->
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
 <br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<!-- Backend / Data -->
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+
 <br>
-  <img src="https://img.shields.io/badge/mybatis-003F2E?style=for-the-badge&logo=mybatis&logoColor=white">
-  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black">
-  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<!-- 기타 -->
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<br>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/mybatis-003F2E?style=for-the-badge">
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black">
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
+<br>
+
+<!-- 협업 -->
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+
 </div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=c0f4f9&section=footer&reversal=false" />
